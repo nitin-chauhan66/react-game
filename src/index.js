@@ -76,7 +76,7 @@ import './index.css';
           </div>
           <div className="game-info">
             <div>{/* status */}</div>
-            <ol>Nitin</ol>
+            <ol>{/* TODO */}</ol>
           </div>
         </div>
       );
